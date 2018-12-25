@@ -14,7 +14,7 @@ First, the 'Create a new student', 'Create a new program' and 'Create a new cour
 
 After which, 'Print all programs', 'Print all courses registered under a program', and 'Print all students' can be selected.
 
-'Register a student for a course' can also be selected to register an existing student to an existing course. 
+'Register a student for a course' can also be selected to register an existing student for an existing course. 
 
 Then, 'Print all courses taken by a student' and 'Print all students enrolled in a course' options can be selected.
 
