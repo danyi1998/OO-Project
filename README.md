@@ -1,4 +1,4 @@
-I coded this project after taking a class on Object Oriented Programming in my sophomore year at college. I wanted to reinforce some concepts and to get some practice.
+I coded this project after taking a class on Object Oriented Programming in my sophomore year at college. I wanted to reinforce some concepts and get some practice.
 
 This project involves the registration of students, university programs and their courses, and also allows students to register for courses. It is meant to model a university student and course registration system. 
 
