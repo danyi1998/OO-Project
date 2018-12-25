@@ -3,3 +3,4 @@ This project involves the registration of students, programs and their courses, 
 It consists of 5 entity classes: Students, Student, Programs, Program, and Course, and 1 control class: Control.
 The 'Students' class instantiates 'Student' objects, the 'Programs' class instantiates 'Program' objects and the 'Program' class instantiates 'Course' objects. A 'Student' object can register for a 'Course'.
 
+Detailed documentation of the code can be found 
