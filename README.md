@@ -1,5 +1,3 @@
-I coded this project after taking a class on Object Oriented Programming in my sophomore year at college. I wanted to reinforce some concepts and get some practice.
-
 This project involves the registration of students, university programs and their courses, and also allows students to register to study courses. It is meant to model a student and course registration system. 
 
 It consists of 5 entity classes: Students, Student, Programs, Program, and Course, and 1 control class: Control.
